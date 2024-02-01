@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OopsSearchNotFound</name>
+   <tag></tag>
+   <elementGuidId>7902dd04-94c4-464b-8b39-670e29439711</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ajax_listOfOptions > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ajax_listOfOptions']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>09702daa-0d64-45e4-a263-8111fd05c574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Oops, nothing found! crew</value>
+      <webElementGuid>48347a37-a211-47a3-8e36-27354d3b024a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ajax_listOfOptions&quot;)/div[1]</value>
+      <webElementGuid>b062f108-d0b5-4e39-8ee5-261064222c50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ajax_listOfOptions']/div</value>
+      <webElementGuid>82574a18-6ebb-4759-80f0-2b2a24b163cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'ajax_listOfOptions', '&quot;', ')/div[1]')])[1]/following::div[2]</value>
+      <webElementGuid>cf19aafb-01a4-43d6-a6eb-78a931f7d10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[3]</value>
+      <webElementGuid>79a31f1c-4c4a-4d83-bde6-188937cdd6e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Oops, nothing found!']/parent::*</value>
+      <webElementGuid>e400f79a-7ba9-4b4e-acc8-88463d33142f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div</value>
+      <webElementGuid>580ae796-5507-4e2b-8400-62a89ea6265c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Oops, nothing found! crew' or . = 'Oops, nothing found! crew')]</value>
+      <webElementGuid>52a0dca0-6058-4fd4-bc93-d57381bb83aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

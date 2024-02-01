@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Basic details</name>
+   <tag></tag>
+   <elementGuidId>336a6c70-cb60-4d8c-bcf5-f47e202c113d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='personalDetailsHeaderDiv']/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#personalDetailsHeaderDiv > h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>8255e6e7-47a2-4ec2-8b2b-3925edff00bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Basic details</value>
+      <webElementGuid>8276e6b5-3e50-4588-b8cc-59a8180e3b93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;personalDetailsHeaderDiv&quot;)/h2[1]</value>
+      <webElementGuid>552c4d77-2dc2-4720-9ad3-ccdd9f3c2d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/self_Service/Profile/iframe_Self services_homePageFrame</value>
+      <webElementGuid>8aa0d031-c38a-4133-a8d3-826b4a600aa8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personalDetailsHeaderDiv']/h2</value>
+      <webElementGuid>67549a28-9e40-4162-9b88-ba324900831b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[7]/following::h2[1]</value>
+      <webElementGuid>da155a76-8ff5-44fd-9cf1-bd0cba0ddc29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dependents'])[1]/preceding::h2[1]</value>
+      <webElementGuid>84a35d4b-afb7-450e-abb7-0aeebccc8437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beneficiaries'])[1]/preceding::h2[1]</value>
+      <webElementGuid>0e906b83-4056-40d9-8c7b-255aa49fc509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/h2</value>
+      <webElementGuid>0c06afe1-b2ff-4dfa-8232-6e44e24101ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Basic details' or . = 'Basic details')]</value>
+      <webElementGuid>bf836522-5856-4fdc-8b4b-ad4e9782c4d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

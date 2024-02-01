@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_sick_leave_triple_dots</name>
+   <tag></tag>
+   <elementGuidId>70b8312d-df80-47e5-90fd-bdc2de05770f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[3]/td[3]/div/a/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#_navBarId_renderTableHeaderArray_1706339275945_2 > span > i.fas.fa-ellipsis-h</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>40cf3909-9760-41c9-9033-f6259ef07be3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-ellipsis-h</value>
+      <webElementGuid>80eb0128-bb45-4ad6-bb63-1296fe5232b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_navBarId_renderTableHeaderArray_1706339275945_2&quot;)/span[1]/i[@class=&quot;fas fa-ellipsis-h&quot;]</value>
+      <webElementGuid>ac479fd4-bb5a-4e70-a676-0b9b2aa46e93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Dashboard/Leave/iframe_Self services_homePageFrame</value>
+      <webElementGuid>4090990e-87b8-4b76-941b-4810c15d9109</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='_navBarId_renderTableHeaderArray_1706339275945_2']/span/i</value>
+      <webElementGuid>301c0454-fa13-464a-932d-9fd20963f8a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]/div/a/span/i</value>
+      <webElementGuid>df3683d3-fae7-4acd-accb-e5783e82b1b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

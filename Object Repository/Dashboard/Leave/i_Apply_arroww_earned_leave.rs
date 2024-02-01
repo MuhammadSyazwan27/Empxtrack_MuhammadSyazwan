@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Apply_arroww_earned_leave</name>
+   <tag></tag>
+   <elementGuidId>73f19929-3bd2-445c-9489-2e956836b4e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[2]/td[3]/div/ul/li/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#actionItems_renderTableHeaderArray_1706501015402_1_0 > i.fa.fa-arrow-circle-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b598e318-2630-4541-8262-f576198564ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-arrow-circle-right</value>
+      <webElementGuid>2db29dcc-5def-4047-b4e0-655048f0820b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionItems_renderTableHeaderArray_1706501015402_1_0&quot;)/i[@class=&quot;fa fa-arrow-circle-right&quot;]</value>
+      <webElementGuid>c4b3e510-455b-4f7c-a424-b6592de776c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Dashboard/Leave/iframe_Self services_homePageFrame</value>
+      <webElementGuid>b17eb44c-0c69-47ce-963c-1b5fa5617fe8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='actionItems_renderTableHeaderArray_1706501015402_1_0']/i</value>
+      <webElementGuid>b5304049-763f-4b83-869d-7aea36ddc8fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[3]/div/ul/li/a/i</value>
+      <webElementGuid>72d4eb9a-d384-4c06-9e58-c1b2c6280e84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

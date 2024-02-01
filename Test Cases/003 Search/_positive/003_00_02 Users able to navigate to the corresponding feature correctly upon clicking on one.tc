@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003_00_02 Users able to navigate to the corresponding feature correctly upon clicking on one</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3215c669-fede-4e5c-8b60-099759b02779</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>004_02_07 Successfully view one of the users profiles in full page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c50ec2a-e6fa-46b1-b437-ce123fe33d08</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006_00_09 Unsuccessfully share a suggestion with empty information</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>22aefc75-bf5c-43ba-adaa-ea01957f85ef</testCaseGuid>
+</TestCaseEntity>

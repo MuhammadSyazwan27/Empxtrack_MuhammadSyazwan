@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_02_02 Successfully cancel a pending leave request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df31318e-a23d-48e5-8721-61afb072f50f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Profile sections</name>
+   <tag></tag>
+   <elementGuidId>00bee1f6-93e0-46d1-9b8b-c0d30ccddbc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.graybar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='display_page_quickLinks']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d0f5476d-fbc4-4f02-bc11-08f9b28f8259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>graybar</value>
+      <webElementGuid>866cfd12-4f89-427d-96e2-9a5087ef174c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Profile sections</value>
+      <webElementGuid>df133fec-fae6-4e1b-8a93-85a647b97caa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile sections</value>
+      <webElementGuid>dd844ba9-9ba7-454c-ba36-eef678c01986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;display_page_quickLinks&quot;)/div[@class=&quot;populatedShortCutMenu&quot;]/div[@class=&quot;graybar&quot;]</value>
+      <webElementGuid>e190f132-16c0-40f6-ac09-1348216be4bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/self_Service/Profile/iframe_Self services_homePageFrame</value>
+      <webElementGuid>44d560f2-f7c4-445f-bc49-217f9d25bb21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='display_page_quickLinks']/div[2]/div</value>
+      <webElementGuid>b521c770-a0e6-4f46-bb5a-726766b8a518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>2d840e27-bdb4-4efd-8723-a6314716d838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Profile sections' and (text() = 'Profile sections' or . = 'Profile sections')]</value>
+      <webElementGuid>e47f3ce7-2bbd-4abb-853e-7ed84348a8b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

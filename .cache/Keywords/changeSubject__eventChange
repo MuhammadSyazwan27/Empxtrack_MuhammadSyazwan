@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "19747AB8B83DE509DDE414DEE4FB1A6B",
+  "keywordClasses": [
+    {
+      "name": "changeSubject.eventChange",
+      "keywordMethods": [
+        {
+          "name": "addEventSubject",
+          "parameters": [
+            {
+              "name": "subject",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

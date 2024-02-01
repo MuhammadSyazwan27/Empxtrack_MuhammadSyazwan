@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_error_new_feed_message</name>
+   <tag></tag>
+   <elementGuidId>174882e0-c695-411b-8851-99c2f907c554</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='140c78c2-13ef-4bd3-9e03-a8bc27581dba']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#140c78c2-13ef-4bd3-9e03-a8bc27581dba > div.modal-dialog > div.modal-content > div.modal-body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e396f3a6-ed10-483e-a49f-ff3baffff767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-body</value>
+      <webElementGuid>ddb3946e-fb2d-4abf-84d2-5b9f12a189d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Only employee and HR Manager can add a feed. Please check with your HR if the 2 roles are allowed feed creation and if allowed, change your role from the role menu.</value>
+      <webElementGuid>6ea92e6e-9710-4966-8c47-bec23e914f7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;140c78c2-13ef-4bd3-9e03-a8bc27581dba&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]</value>
+      <webElementGuid>358d8a95-6b12-4191-a938-00f99a669208</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Dashboard/Feed/iframe_Manager services_homePageFrame</value>
+      <webElementGuid>3d98ddcb-8920-4617-ac11-e68262adcc9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='140c78c2-13ef-4bd3-9e03-a8bc27581dba']/div/div/div[2]</value>
+      <webElementGuid>fd991f01-baee-45f9-a20c-94d7451e13d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/following::div[1]</value>
+      <webElementGuid>01fc330a-39f7-4f1e-bdae-c29f9565d565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[4]/following::div[2]</value>
+      <webElementGuid>3abd61ff-54b9-4fa5-971b-f84719a42d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[3]</value>
+      <webElementGuid>a8eadcc1-fbc0-4cf4-9df5-6df173935392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[2]</value>
+      <webElementGuid>d467d34e-be01-4535-a774-9a2ac861a62c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Only employee and HR Manager can add a feed. Please check with your HR if the 2 roles are allowed feed creation and if allowed, change your role from the role menu.' or . = 'Only employee and HR Manager can add a feed. Please check with your HR if the 2 roles are allowed feed creation and if allowed, change your role from the role menu.')]</value>
+      <webElementGuid>7092dd56-a7c7-4f97-a3cc-b180b02d8152</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Notification</name>
+   <tag></tag>
+   <elementGuidId>f0d062bf-e077-4792-8c7d-692e48f29ec2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='showHidePanel(this);showNotifications();closeSetting();return false;']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#notificationItems123 > a.pull-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7b3ded2a-648b-4e14-be14-d0a94edc433a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pull-right</value>
+      <webElementGuid>2171857f-1df9-4863-801e-c1aa9bd723a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>bf13ef40-b2cc-40f0-bc4c-b9b52bc0726c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Notifications</value>
+      <webElementGuid>7763515b-0c48-4e40-9767-3cb53b2eb6be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>showHidePanel(this);showNotifications();closeSetting();return false;</value>
+      <webElementGuid>ec09d93b-c5a2-4526-ab7e-d9f3c7c1fd01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;notificationItems123&quot;)/a[@class=&quot;pull-right&quot;]</value>
+      <webElementGuid>936cd56e-1c02-4dce-b734-c747d2b4a2bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='showHidePanel(this);showNotifications();closeSetting();return false;']</value>
+      <webElementGuid>3e42beb2-0948-4353-bdf9-506f83c6c98c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='notificationItems123']/a</value>
+      <webElementGuid>446b8ba3-d38d-4338-af3e-44a97df726c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/following::a[2]</value>
+      <webElementGuid>ce9867f9-7cf1-48b1-991c-df0c25e18d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[3]/preceding::a[1]</value>
+      <webElementGuid>c80d4bd8-4b89-415c-b08d-7bee70b99499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[4]/preceding::a[2]</value>
+      <webElementGuid>290ab9e6-cb21-4c6f-8da6-ba8cfef9b3c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>6eb151d0-2d52-4a33-87a9-d4a4841c24c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Notifications']</value>
+      <webElementGuid>39d3b2c4-42fd-4a7b-9f0c-3af394529e1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

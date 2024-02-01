@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Profile sections</name>
+   <tag></tag>
+   <elementGuidId>cd6796a9-80da-436e-8a96-b3f9b39ffb71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.graybar-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='display_page_quickLinks']/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d3a6e1f7-58f7-4110-8e15-0574b09f6e45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>graybar-label</value>
+      <webElementGuid>f64fbcf7-2564-4333-885b-dc31007b51dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile sections</value>
+      <webElementGuid>01ad2dfa-b595-4e24-aab7-1f022ac3ccc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;display_page_quickLinks&quot;)/div[@class=&quot;populatedShortCutMenu&quot;]/div[@class=&quot;graybar&quot;]/span[@class=&quot;graybar-label&quot;]</value>
+      <webElementGuid>99f918c4-5665-4b42-b7c6-9eca95d9ec62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/self_Service/iframe_Self services_homePageFrame</value>
+      <webElementGuid>fdfdc8f8-ac40-4e68-bac7-3ec9c7439dea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='display_page_quickLinks']/div[2]/div/span</value>
+      <webElementGuid>369f8f71-432e-4df8-870f-d99cef27563a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::span[3]</value>
+      <webElementGuid>e161c28b-90df-4766-9feb-65d603bdb3a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Profile sections']/parent::*</value>
+      <webElementGuid>3c83ab96-8b76-455f-8544-e7452ef09aa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>8a19308d-6d50-42aa-a718-e751bafdfc59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Profile sections' or . = 'Profile sections')]</value>
+      <webElementGuid>bcdd20f8-a601-45dd-9206-2cd853fe5afb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

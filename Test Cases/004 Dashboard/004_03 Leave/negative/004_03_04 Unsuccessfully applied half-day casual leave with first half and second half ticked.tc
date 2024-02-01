@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>004_03_04 Unsuccessfully applied half-day casual leave with first half and second half ticked</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcd56b28-939e-4e43-a746-dbb52764181b</testCaseGuid>
+</TestCaseEntity>

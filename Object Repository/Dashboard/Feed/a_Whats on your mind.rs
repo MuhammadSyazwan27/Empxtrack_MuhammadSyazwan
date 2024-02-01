@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Whats on your mind</name>
+   <tag></tag>
+   <elementGuidId>3ae8bc9d-9895-4cfa-895c-a3acde252e6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='javascript:feedRoleIssue();return false;']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.news-feed-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6fade8f6-393a-49c4-b5e6-654664993432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>28c92ca3-cf83-4a7a-93a9-52fae868ca36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript:feedRoleIssue();return false;</value>
+      <webElementGuid>ab0d6c65-edb6-45a6-bedf-40416a992a1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>What</value>
+      <webElementGuid>d3778b56-67b7-480f-92f3-7eed319f6c01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>news-feed-btn</value>
+      <webElementGuid>af005546-2f45-4322-bca3-0a2eeeb89956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>What's on your mind ?</value>
+      <webElementGuid>db35185a-9a12-4237-81f6-1f536dd7d7f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;newsFeed_content&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-md-12&quot;]/a[@class=&quot;news-feed-btn&quot;]</value>
+      <webElementGuid>e66f76e0-4a50-4b40-9b4f-602f04ef6141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Dashboard/Feed/iframe_Manager services_homePageFrame</value>
+      <webElementGuid>77103c4d-f0be-4d54-96c8-ddc072f3a7d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='javascript:feedRoleIssue();return false;']</value>
+      <webElementGuid>3455840d-666d-40ae-9c36-945da1c6c4f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='newsFeed_content']/div/div[2]/a</value>
+      <webElementGuid>315fc0ff-cac0-4d5c-8738-5bb6c88a0055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feed'])[1]/following::a[2]</value>
+      <webElementGuid>bde46ee6-d65b-47ee-9e2f-23934a7ed0da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::a[2]</value>
+      <webElementGuid>45032a65-f64a-482a-ae9b-348a3fa37239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='emp 10'])[1]/preceding::a[1]</value>
+      <webElementGuid>0672e9a7-433f-445b-a567-643e9593a975</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warm welcome'])[1]/preceding::a[2]</value>
+      <webElementGuid>f2c764a0-9c55-41d8-b327-6a3dbb4c9228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[5]</value>
+      <webElementGuid>cdcdc3df-60ac-4fd6-b751-3c783ec8cbef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/a</value>
+      <webElementGuid>458489ed-f4bf-4561-b8c4-eab6ebff9c68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and @title = 'What' and (text() = concat(&quot;What&quot; , &quot;'&quot; , &quot;s on your mind ?&quot;) or . = concat(&quot;What&quot; , &quot;'&quot; , &quot;s on your mind ?&quot;))]</value>
+      <webElementGuid>8c5a2547-3f11-4929-b003-3ce5fec886d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

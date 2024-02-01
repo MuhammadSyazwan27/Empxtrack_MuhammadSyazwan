@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Select employees_chosen-choices</name>
+   <tag></tag>
+   <elementGuidId>2c35e33d-5d9d-4693-b7fc-fa728f46997c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.chosen-choices</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='assignedAttendeesList_chosen']/ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>03bb6b96-1078-4262-8159-ef7a605b4d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chosen-choices</value>
+      <webElementGuid>05e4ef8c-732a-4994-b476-05e84d9d83cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;assignedAttendeesList_chosen&quot;)/ul[@class=&quot;chosen-choices&quot;]</value>
+      <webElementGuid>ae76bb27-71b7-488a-853a-de7a5b86f715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Dashboard/Event_Task/Page_Home page/iframe_Self services_homePageFrame</value>
+      <webElementGuid>aed32682-7321-4483-b184-556d43ae19bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='assignedAttendeesList_chosen']/ul</value>
+      <webElementGuid>dbe60959-c2c4-4a3e-bf23-6621ed20c5b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select employees'])[1]/following::ul[1]</value>
+      <webElementGuid>5d4911df-6840-4e48-8457-a78b04f63884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View availability'])[1]/preceding::ul[2]</value>
+      <webElementGuid>7257c66f-f33f-420a-82d5-f1f2a54662dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/div/div/div/ul</value>
+      <webElementGuid>b4b6e77e-f15a-436f-87ad-4564da215b8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

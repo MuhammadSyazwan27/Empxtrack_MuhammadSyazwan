@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_TimeBased</name>
+   <tag></tag>
+   <elementGuidId>beafde25-efa5-4f00-b93e-2a261e30da68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='timeItems123']/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#timeItems123 > a.pull-right > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>06916606-79e7-4e14-8eac-8255c7188f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/v10/time-based-act.png</value>
+      <webElementGuid>ac685237-786e-41f6-afaf-7d55c7d6d2f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;timeItems123&quot;)/a[@class=&quot;pull-right&quot;]/img[1]</value>
+      <webElementGuid>6a2f68aa-15c2-4e90-bc07-258654e8120b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='timeItems123']/a/img</value>
+      <webElementGuid>2f05b8de-37cb-4c6f-bae9-659897b6fa29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a/img</value>
+      <webElementGuid>94bda230-8e8b-4594-a9eb-e429f97fd439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'images/v10/time-based-act.png']</value>
+      <webElementGuid>4e120bb5-c0fc-4581-87f9-f947eba1fff3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

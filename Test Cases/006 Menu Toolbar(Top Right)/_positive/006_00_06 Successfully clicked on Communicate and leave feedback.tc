@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006_00_06 Successfully clicked on Communicate and leave feedback</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>228242e3-66d8-45b4-9a34-94c4b56fa7f7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f895caee-4e25-4bf3-87ec-2f49ced5648d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>56fe8ca7-85a9-4950-9a59-49ba270bb94d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Appreciate a good vibe'</defaultValue>
+      <description></description>
+      <id>f895caee-4e25-4bf3-87ec-2f49ced5648d</id>
+      <masked>false</masked>
+      <name>feedbackMessage</name>
+   </variable>
+   <variable>
+      <defaultValue>'emp'</defaultValue>
+      <description></description>
+      <id>56fe8ca7-85a9-4950-9a59-49ba270bb94d</id>
+      <masked>false</masked>
+      <name>employeeName</name>
+   </variable>
+</TestCaseEntity>

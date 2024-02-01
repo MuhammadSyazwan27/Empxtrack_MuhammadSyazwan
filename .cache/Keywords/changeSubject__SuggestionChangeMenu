@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "382EEC90E8D1AE35979DE17FB9A69735",
+  "keywordClasses": [
+    {
+      "name": "changeSubject.SuggestionChangeMenu",
+      "keywordMethods": [
+        {
+          "name": "addSuggestionSubject",
+          "parameters": [
+            {
+              "name": "subject",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

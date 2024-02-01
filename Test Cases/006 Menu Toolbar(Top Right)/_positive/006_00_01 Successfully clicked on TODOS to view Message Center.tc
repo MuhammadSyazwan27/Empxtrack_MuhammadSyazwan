@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006_00_01 Successfully clicked on TODOS to view Message Center</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b100ed7d-1c93-4a58-aca6-a6c90cafee1d</testCaseGuid>
+</TestCaseEntity>

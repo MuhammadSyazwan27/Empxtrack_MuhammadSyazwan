@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003_00_05 Users able to navigate to the corresponding employee correctly upon clicking on</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c596e7fc-c126-4c1b-ba10-38efc51f3e01</testCaseGuid>
+</TestCaseEntity>

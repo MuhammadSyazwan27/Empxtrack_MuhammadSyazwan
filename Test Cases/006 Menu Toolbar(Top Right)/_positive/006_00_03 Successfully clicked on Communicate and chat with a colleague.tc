@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006_00_03 Successfully clicked on Communicate and chat with a colleague</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3a7ec29-46ca-4f15-b753-57028aeb1e46</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>efef1b25-7b2f-4b8e-a365-527e9628cd70</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ba0bcdcc-c2a3-4ca6-bf9f-328e9c3fd5e8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'emp'</defaultValue>
+      <description></description>
+      <id>efef1b25-7b2f-4b8e-a365-527e9628cd70</id>
+      <masked>false</masked>
+      <name>employeeName</name>
+   </variable>
+   <variable>
+      <defaultValue>'have a good day!'</defaultValue>
+      <description></description>
+      <id>ba0bcdcc-c2a3-4ca6-bf9f-328e9c3fd5e8</id>
+      <masked>false</masked>
+      <name>chatMessage</name>
+   </variable>
+</TestCaseEntity>

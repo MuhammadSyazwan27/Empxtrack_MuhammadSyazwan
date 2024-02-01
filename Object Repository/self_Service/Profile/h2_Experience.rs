@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Experience</name>
+   <tag></tag>
+   <elementGuidId>ce0200c3-be56-451a-bfd1-c7c11529113c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='experienceHeaderDiv']/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#experienceHeaderDiv > h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>7adf6c7c-63fb-48d1-a45d-5b443af694f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Experience</value>
+      <webElementGuid>72717477-2444-4a0e-a312-75d26274c2d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;experienceHeaderDiv&quot;)/h2[1]</value>
+      <webElementGuid>77252da5-9c2d-4f08-baf7-0d34812011c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/self_Service/Profile/iframe_Self services_homePageFrame</value>
+      <webElementGuid>b6f7d2db-ee06-41ba-9183-1f58e09eba55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='experienceHeaderDiv']/h2</value>
+      <webElementGuid>7a743f54-4358-419c-8ac7-5066a8606bb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Certification'])[6]/following::h2[1]</value>
+      <webElementGuid>509cfe8f-d652-484f-a89a-2ecf78d72887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Education'])[3]/following::h2[1]</value>
+      <webElementGuid>8069577e-7c48-4662-ab01-14c24ce6db77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View or edit your current or past job experience.'])[1]/preceding::h2[1]</value>
+      <webElementGuid>136bb237-5c22-45a3-a60a-7d2aa6a467d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div/div[2]/h2</value>
+      <webElementGuid>0867fd29-5a7d-4d94-9a45-c072e19208e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Experience' or . = 'Experience')]</value>
+      <webElementGuid>49ea19a9-297f-490f-80b0-bf4124e2a9b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

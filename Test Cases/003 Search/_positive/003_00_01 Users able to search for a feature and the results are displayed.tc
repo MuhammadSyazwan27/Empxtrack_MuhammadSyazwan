@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003_00_01 Users able to search for a feature and the results are displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a553302-ffa8-4af2-a0cb-f8684f60dff2</testCaseGuid>
+</TestCaseEntity>

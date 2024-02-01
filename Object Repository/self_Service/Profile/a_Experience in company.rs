@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Experience in company</name>
+   <tag></tag>
+   <elementGuidId>476d192e-49c3-4c3e-94c6-e0485a247daa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='btn_0'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>69d40b6c-80ff-4302-8c42-65817838bcb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn_0</value>
+      <webElementGuid>9760a76e-2937-4088-aac3-28675bcf97d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>addExperienceRecordOnDialog('1');return false;</value>
+      <webElementGuid>4f29ca56-a086-42f7-b86b-efd64a4b8d1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Experience in company </value>
+      <webElementGuid>2d041d62-3dcc-4a51-a4aa-ff059f132463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;experienceDataDiv&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;personalprofile&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;sec-button&quot;]/a[@id=&quot;btn_0&quot;]</value>
+      <webElementGuid>1bebea55-af22-482d-8290-2944d39de81c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/self_Service/Profile/iframe_Self services_homePageFrame</value>
+      <webElementGuid>9a8e90a2-9756-4c11-839b-e0fb3f6424b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='btn_0'])[5]</value>
+      <webElementGuid>e78243b5-b44b-4802-b700-498e08eaa2c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='experienceDataDiv']/div/div/div[3]/div/a</value>
+      <webElementGuid>0ff4b994-05da-4f87-b90b-ef7af1432275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Experience in company')]</value>
+      <webElementGuid>0de4466d-5eb1-4d20-8028-7d2a1b5309fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No records are available'])[1]/following::a[1]</value>
+      <webElementGuid>44c6254f-c492-49c7-8887-c5009e8292ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View or edit your current or past job experience.'])[1]/following::a[1]</value>
+      <webElementGuid>7217916a-d8aa-4c88-aeb1-f46f8aad63ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prior experience'])[1]/preceding::a[1]</value>
+      <webElementGuid>d35e9abd-a9a5-44a2-b1dd-ab34c4756881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reporting structure'])[3]/preceding::a[2]</value>
+      <webElementGuid>e1753cd8-f32c-4dfd-bbe7-7d1c1c049533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Experience in company']/parent::*</value>
+      <webElementGuid>611bdeaa-2d89-406b-8edf-870467c619e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[47]</value>
+      <webElementGuid>884b6968-39a5-4f54-9153-1778aa3824ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[3]/div/a</value>
+      <webElementGuid>b3e5c749-84e1-4e26-a639-9120b574c83a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btn_0' and (text() = ' Experience in company ' or . = ' Experience in company ')]</value>
+      <webElementGuid>bdeb36e9-bdf1-4701-af7e-0da9b5fcc399</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

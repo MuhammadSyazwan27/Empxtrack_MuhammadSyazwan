@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Other details</name>
+   <tag></tag>
+   <elementGuidId>6ceb0f1f-1ef1-4af4-b93d-6d6279b073e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btn_2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btn_2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>37f73927-ce4e-4f31-b079-04de32d659f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn_2</value>
+      <webElementGuid>afe703e2-82b3-463e-a1f5-352dfa5efaf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript:triggerPersonalDataModes('AddButtonEmployeeOtherDetailsMethod');return false;</value>
+      <webElementGuid>cdf54126-aedb-4269-b525-0dfa0c2d31e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Other details </value>
+      <webElementGuid>69fb4f0a-99fe-4fe5-ba69-e20227216c6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;personalDetailsDiv&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;personalprofile&quot;]/div[@class=&quot;detail_profile&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;sec-button&quot;]/a[@id=&quot;btn_2&quot;]</value>
+      <webElementGuid>68c636f8-d4e6-40eb-8657-ce8ccdb729bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/self_Service/Profile/iframe_Self services_homePageFrame</value>
+      <webElementGuid>6f0a4eba-6d3d-466d-8769-a6500127a019</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btn_2']</value>
+      <webElementGuid>36e5a2bc-ffa8-428c-aac4-d14b633018e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personalDetailsDiv']/div/div/div/div[3]/div[3]/a</value>
+      <webElementGuid>ec62925f-c4da-41d0-8b5f-b245d5b8268c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Other details')]</value>
+      <webElementGuid>d0ff2c92-fe46-4614-bc52-1525e2a522d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beneficiaries'])[2]/following::a[1]</value>
+      <webElementGuid>69c0515e-4acb-4a7e-963c-60b3cf4c4919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dependents'])[2]/following::a[2]</value>
+      <webElementGuid>9ebbfeeb-d630-4c37-93e8-d61044c8cf86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hobbies'])[2]/preceding::a[1]</value>
+      <webElementGuid>fe950223-23bc-49b4-907e-835f165a87ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Languages known'])[2]/preceding::a[2]</value>
+      <webElementGuid>eaa8f011-7f55-4699-ba92-0ea1a8650fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Other details']/parent::*</value>
+      <webElementGuid>f28f9b40-e205-4a9c-8517-b8eb9e82593a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/a</value>
+      <webElementGuid>3060abf3-0df6-4784-a2d5-7bfe993af88b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btn_2' and (text() = 'Other details ' or . = 'Other details ')]</value>
+      <webElementGuid>12cd415e-7f6a-45ff-ac78-c88c1061eaf2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

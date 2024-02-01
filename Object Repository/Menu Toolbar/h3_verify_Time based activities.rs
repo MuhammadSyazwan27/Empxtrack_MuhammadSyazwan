@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_verify_Time based activities</name>
+   <tag></tag>
+   <elementGuidId>e90ea306-a09e-4eb7-8548-f410d6187444</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='allTimeItems']/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#allTimeItems > h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>13b1a9a1-d5f5-4a80-b6c7-098a99ba244e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Time based activities</value>
+      <webElementGuid>3548f015-a65e-4e4a-a9b4-b6b7df00e5b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;allTimeItems&quot;)/h3[1]</value>
+      <webElementGuid>8f4f6cfc-22fa-40c5-a028-a3cbfe5e0cb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='allTimeItems']/h3</value>
+      <webElementGuid>8c682ecc-ca91-4a61-b9fc-d81189722531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[2]/following::h3[1]</value>
+      <webElementGuid>466f1c8c-2ba3-4558-b471-f855ad9df9d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attendance'])[1]/preceding::h3[1]</value>
+      <webElementGuid>73765301-5c3d-4fcd-8721-dbe9d248c154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/h3</value>
+      <webElementGuid>cd66cbd5-5d79-4184-90cf-7e2661fcf6f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Time based activities' or . = 'Time based activities')]</value>
+      <webElementGuid>e8e53db3-26c2-41f5-92de-6d0978be5256</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

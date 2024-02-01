@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_InformationPlease specify the subjectOK</name>
+   <tag></tag>
+   <elementGuidId>16cda940-08dc-4040-ac32-38afe0d04ca5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ee819a66-9c0f-441b-9094-a78b606ed5a4 > div.modal-dialog > div.modal-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ee819a66-9c0f-441b-9094-a78b606ed5a4']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cd7ca8a3-d5d3-416b-b6a7-b8cc0326e635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-content</value>
+      <webElementGuid>ad1c7781-6717-4b20-8adf-2499f7e112d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×InformationPlease specify the subjectOK</value>
+      <webElementGuid>bf94dd74-a56e-4c84-91c3-096e48f49663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ee819a66-9c0f-441b-9094-a78b606ed5a4&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]</value>
+      <webElementGuid>10cfbbd8-5d81-4908-96ec-dab2ad2eee5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Dashboard/Event_Task/Page_Home page/iframe_Self services_homePageFrame (1)</value>
+      <webElementGuid>899c03ac-6458-46ec-bbc5-2ff43cd97620</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ee819a66-9c0f-441b-9094-a78b606ed5a4']/div/div</value>
+      <webElementGuid>80f63e81-d6ec-468d-baa4-64dd999b57f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[3]/following::div[24]</value>
+      <webElementGuid>7609f62f-fd54-4ce1-b9cd-9b0c6e73ff64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::div[36]</value>
+      <webElementGuid>9206f5da-7dd8-45c5-abd6-9a7e5953d562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div</value>
+      <webElementGuid>3a243a3f-1913-4e70-b529-698dcb25a0a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '×InformationPlease specify the subjectOK' or . = '×InformationPlease specify the subjectOK')]</value>
+      <webElementGuid>b392cb59-231c-4e21-ad22-237f2125f3ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add Permanent address</name>
+   <tag></tag>
+   <elementGuidId>6c3b8ec7-36f3-42de-b707-76a005bcd7b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#contactDetailsDataDiv > div.col-md-12 > div.personalprofile > div.detail_profile > div.col-md-12 > div.sec-button > #btn_1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='btn_1'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a5fd63b1-0069-48cc-88da-8a4c49fe3b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn_1</value>
+      <webElementGuid>71f50c1d-6f26-40a5-bc85-609be6d3a1ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript:addAddressRecordOnDialog('1');return false;</value>
+      <webElementGuid>f93557df-1c80-4cbb-9eac-a717090d87b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Permanent address </value>
+      <webElementGuid>a1ec0a3c-91bf-4c80-bb59-c9716ad3771a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contactDetailsDataDiv&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;personalprofile&quot;]/div[@class=&quot;detail_profile&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;sec-button&quot;]/a[@id=&quot;btn_1&quot;]</value>
+      <webElementGuid>bdcb823e-c066-4ec5-879d-4b61c32ff61b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/self_Service/Profile/iframe_Self services_homePageFrame</value>
+      <webElementGuid>12a382b9-2548-48f6-b087-97312e4e5492</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='btn_1'])[2]</value>
+      <webElementGuid>fdaa9db3-c724-44af-aa11-32b7afa37dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contactDetailsDataDiv']/div/div/div/div[5]/div[2]/a</value>
+      <webElementGuid>c53ad9c2-5b9d-473c-a2e4-bba117f0685f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add Permanent address')]</value>
+      <webElementGuid>a77e8be0-85bf-47fc-a83d-6d6b49b02358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Current contact details'])[1]/following::a[1]</value>
+      <webElementGuid>94a55fd6-dd65-4e4d-a378-4978e66cff80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In case of emergency please contact'])[1]/following::a[3]</value>
+      <webElementGuid>6bfd504f-f783-4597-a639-83c1bcf97304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Emergency contact details'])[1]/preceding::a[1]</value>
+      <webElementGuid>eddb48b9-ab2b-4b8d-b05b-c7471259abc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Education and certifications'])[3]/preceding::a[2]</value>
+      <webElementGuid>b74df558-e9d1-4a02-80ea-f443c9dd90a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Permanent address']/parent::*</value>
+      <webElementGuid>1acf96c7-7ed9-43a8-b9ec-f6ef0cb63ce0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/a</value>
+      <webElementGuid>4a7873e7-3a80-48ac-a924-1494782343b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btn_1' and (text() = 'Add Permanent address ' or . = 'Add Permanent address ')]</value>
+      <webElementGuid>2f98ff2a-2213-42f6-94c8-8897177a2d0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

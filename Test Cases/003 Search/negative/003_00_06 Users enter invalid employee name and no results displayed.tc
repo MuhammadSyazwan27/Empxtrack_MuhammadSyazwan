@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003_00_06 Users enter invalid employee name and no results displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfa61c12-3e47-4298-b95c-7bd48ca0769b</testCaseGuid>
+</TestCaseEntity>

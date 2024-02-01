@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDT share a suggestion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e886d99e-4ba3-44df-a355-13dd3e964958</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>aebbb156-fa3b-4465-9bd8-b144210fc1bd</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/006shareSuggestion</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>aebbb156-fa3b-4465-9bd8-b144210fc1bd</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>specifyArea</value>
+      <variableId>b3eb8f92-873a-403c-8bdd-2ea25de2e24e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>aebbb156-fa3b-4465-9bd8-b144210fc1bd</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>yourSuggestion</value>
+      <variableId>ea0ee160-4728-439d-a4d3-22e6ba617b43</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Kok Lanas'</defaultValue>
+      <description></description>
+      <id>b3eb8f92-873a-403c-8bdd-2ea25de2e24e</id>
+      <masked>false</masked>
+      <name>specifyArea</name>
+   </variable>
+   <variable>
+      <defaultValue>'Keep up!'</defaultValue>
+      <description></description>
+      <id>ea0ee160-4728-439d-a4d3-22e6ba617b43</id>
+      <masked>false</masked>
+      <name>yourSuggestion</name>
+   </variable>
+</TestCaseEntity>

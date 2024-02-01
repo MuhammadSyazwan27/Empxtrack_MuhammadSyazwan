@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>004_01_02 Users unsuccessfully save blank event</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d761ba79-470a-4b8f-849a-01038da1aca0</testCaseGuid>
+</TestCaseEntity>

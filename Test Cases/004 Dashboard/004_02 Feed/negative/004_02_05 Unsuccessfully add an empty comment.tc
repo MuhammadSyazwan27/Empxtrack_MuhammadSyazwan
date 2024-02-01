@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>004_02_05 Unsuccessfully add an empty comment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de34dd37-3943-4418-9f58-b65774577ca7</testCaseGuid>
+</TestCaseEntity>

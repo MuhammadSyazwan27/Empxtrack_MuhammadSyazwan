@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006_00_04 Unsuccessfully chat with a colleague with empty information</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de164c67-2484-43a7-9248-7899780674cc</testCaseGuid>
+</TestCaseEntity>

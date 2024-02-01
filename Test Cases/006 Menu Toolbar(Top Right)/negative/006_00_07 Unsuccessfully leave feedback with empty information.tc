@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006_00_07 Unsuccessfully leave feedback with empty information</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25829e47-1fd6-49ae-82ec-8a15ecf57a8c</testCaseGuid>
+</TestCaseEntity>

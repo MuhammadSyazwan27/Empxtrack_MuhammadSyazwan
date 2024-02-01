@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_00_02 Users enter wrong username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9d99439-d5fe-4411-bfaf-c486172a8add</testCaseGuid>
+</TestCaseEntity>

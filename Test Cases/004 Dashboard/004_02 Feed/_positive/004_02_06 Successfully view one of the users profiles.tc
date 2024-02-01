@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>004_02_06 Successfully view one of the users profiles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3e0c1a5-1d2e-4d41-ad52-af11157257ba</testCaseGuid>
+</TestCaseEntity>

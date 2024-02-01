@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>004_02_04 Successfully put a like on one of the users</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbc54dce-e016-4420-aa52-5d212a92e5fb</testCaseGuid>
+</TestCaseEntity>

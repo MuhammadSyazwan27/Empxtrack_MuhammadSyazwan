@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_TODOs</name>
+   <tag></tag>
+   <elementGuidId>a740df11-a485-40d5-829d-2f7916a1f43b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;encryptURLForPanel('mod=MessageCenter', '');closeSetting();return false;&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#todoItems123 > a.pull-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bbb0bd67-6cc2-400e-be7b-b3822eb0c2ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pull-right</value>
+      <webElementGuid>2f5a3980-7025-4a88-b9a6-de23c2af2383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>4430b1ce-de0f-4a1c-a3ef-770347bfa5af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>TODOs</value>
+      <webElementGuid>d980df1f-4690-4b2d-950b-ba682ccf97a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>encryptURLForPanel('mod=MessageCenter', '');closeSetting();return false;</value>
+      <webElementGuid>2a425852-276e-4c7a-b0bd-5498dc31c530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top_bg-gray_v9&quot;)/div[@class=&quot;col-md-9 col-xs-7 v9-widget&quot;]/div[@class=&quot;v9-widget_icon&quot;]/div[@id=&quot;todoItems123&quot;]/a[@class=&quot;pull-right&quot;]</value>
+      <webElementGuid>2f1147aa-db88-4305-8ea3-33840aa5504c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;encryptURLForPanel('mod=MessageCenter', '');closeSetting();return false;&quot;]</value>
+      <webElementGuid>92591212-2138-4ae6-b059-cda79e06ca34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='todoItems123']/a</value>
+      <webElementGuid>36a85f57-8876-4012-af49-51dcf132926c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/following::a[3]</value>
+      <webElementGuid>d5f7ee4e-49a6-4fc3-ac59-4c13bfa64002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/preceding::a[1]</value>
+      <webElementGuid>6dba2ed5-487b-407d-a7ef-dff5e39bb335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[3]/preceding::a[3]</value>
+      <webElementGuid>94df2966-7095-4a47-bc15-ecac68e1e776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>df265b79-cbb5-4d54-a812-6be7cb196fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'TODOs']</value>
+      <webElementGuid>66f43224-2212-4d76-a05c-838d5e2c0cdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
